@@ -1,3 +1,5 @@
+# Material from London Python Meetup 25/04/2019
+
 This repo contains the slides and demo materials from the talk
 "Integrating Excel and Python" given at the London Python meetup 25/04/2019.
 
